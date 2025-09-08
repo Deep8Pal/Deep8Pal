@@ -240,6 +240,19 @@
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="48" height="48"/>
 </p>
 
+<h3 align="left">🚀 Languages and Tools:</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,django,docker,express,figma,firebase,git,graphql,html,js,linux,mongodb,mysql,nodejs,postgres,postman,python,react,redux,tailwind,ts" />
+
+  <!-- Custom styled Framer Motion icon -->
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" 
+       alt="Framer Motion" 
+       width="48" height="48" 
+       style="background:#1E1E1E; padding:6px; border-radius:12px;"/>
+</p>
+
+
 
 
 
