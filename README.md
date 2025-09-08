@@ -230,6 +230,17 @@
   <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,django,docker,express,figma,firebase,motion,git,html,js,kubernetes,linux,mongodb,mysql,nodejs,postgres,postman,python,react,redis,redux,tailwind,ts" />
 </p>
 
+<h3 align="left">🚀 Languages and Tools:</h3>
+
+<p align="center">
+  <!-- Skillicons banner -->
+  <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,django,docker,express,figma,firebase,git,graphql,html,js,linux,mongodb,mysql,nodejs,postgres,postman,python,react,redux,tailwind,ts" />
+
+  <!-- Extra icon for Framer Motion -->
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="48" height="48"/>
+</p>
+
+
 
 
 
