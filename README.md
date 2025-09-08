@@ -8,7 +8,7 @@ From designing smooth UIs 🎨 to writing secure APIs 🔐 and deploying with Do
 For me, development is about creativity 🎭, problem-solving 🧠, and constantly learning 📚 to build cleaner, smarter, production-ready code ✅.
 </h3>
 
-<p align="left">
+<p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=deep8pal&label=Profile%20views&color=0e75b6&style=flat" alt="deep8pal" />
 
@@ -34,13 +34,13 @@ For me, development is about creativity 🎭, problem-solving 🧠, and constant
 </p>
 
 
-<h3 align="left">🌱 I’m currently learning</h3>
+<h3 align="center">🌱 I’m currently learning</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ADEF&width=500&lines=Learning+Cloud+%26+DevOps;Docker+·+AWS+·+CI%2FCD+·+Kubernetes" alt="Typing Animation" />
 </p>
 
 
-<h3 align="left">🚀 Languages and Tools:</h3>
+<h3 align="center">🚀 Languages and Tools:</h3>
 
 <p align="center">
   <!-- Skillicons banner -->
