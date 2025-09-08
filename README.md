@@ -8,30 +8,33 @@ From designing smooth UIs to writing secure APIs and deploying with Docker, Kube
 For me, development is about creativity, problem-solving and constantly learning to build cleaner, smarter, production-ready code ✅.
 </h3>
 
+<h3 align="center">🌐 Connect with me</h3>
+
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=deep8pal&label=Profile%20views&color=0e75b6&style=flat" alt="deep8pal" />
+  <img src="https://komarev.com/ghpvc/?username=deep8pal&label=Profile%20views&color=grey&style=for-the-badge" alt="Profile views" />
 
   <!-- Twitter -->
   <a href="https://twitter.com/deeppal_08" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/deeppal_08?logo=twitter&style=for-the-badge" alt="Twitter: deeppal_08" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 
   <!-- Portfolio -->
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/deep8pal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 
 
 <h3 align="center">🌱 I’m currently learning</h3>
