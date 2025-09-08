@@ -8,9 +8,8 @@
 <p align="left"> <a href="https://twitter.com/deeppal_08" target="blank"><img src="https://img.shields.io/twitter/follow/deeppal_08?logo=twitter&style=for-the-badge" alt="deeppal_08" /></a> </p>
 
 <h3 align="left">🌱 I’m currently learning</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&width=500&lines= Docker+|+AWS+|+CI%2FCD+|+Kubernetes;🚀+Cloud+and+DevOps+in+progress..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ADEF&width=500&lines=Learning+Cloud+%26+DevOps;Docker+·+AWS+·+CI%2FCD+·+Kubernetes" alt="Typing Animation" />
 </p>
 
 
