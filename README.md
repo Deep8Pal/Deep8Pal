@@ -227,7 +227,7 @@
 <h3 align="left">🚀 Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,django,docker,express,figma,firebase,framer,git,graphql,html,js,kubernetes,linux,mongodb,mysql,nodejs,postgres,postman,python,react,redis,redux,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,django,docker,express,figma,firebase,motion,git,html,js,kubernetes,linux,mongodb,mysql,nodejs,postgres,postman,python,react,redis,redux,tailwind,ts" />
 </p>
 
 
