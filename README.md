@@ -10,7 +10,7 @@
 <h3 align="left">🌱 I’m currently learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&width=500&lines=☁️+Docker+|+AWS+|+CI%2FCD+|+Kubernetes;🚀+Cloud+and+DevOps+in+progress..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&width=500&lines= Docker+|+AWS+|+CI%2FCD+|+Kubernetes;🚀+Cloud+and+DevOps+in+progress..." alt="Typing SVG" />
 </p>
 
 
