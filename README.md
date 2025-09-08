@@ -1,4 +1,7 @@
 md
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=40&lines=Full+Stack+Web+Developer;MERN+|+Docker+|+Kubernetes+|+AWS" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Deep Pal</h1>
 
 
@@ -6,8 +9,7 @@ md
 <p align="center"> 
   <a href="https://komarev.com/ghpvc/?username=deep8pal"><img src="https://komarev.com/ghpvc/?username=deep8pal" alt="Profile views" /></a>
   &nbsp;
-  <a href="https://github.com/deep8pal"><img src="https://github-readme-stats.vercel.app/api?username=deep8pal&show_icons=true&locale=en" alt="deep8pal" /></a>
-</p>
+  </p>
 
 ---
 
