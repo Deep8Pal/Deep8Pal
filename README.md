@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Deep Pal</h1>
+<h1 align="center">Hi 👋, I'm Deep Pal <p align="center font-bold">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=40&lines=Full+Stack+Web+Developer;MERN+|+Docker+|+Kubernetes+|+AWS" alt="Typing SVG" />
+</p> </h1>
 <h3 align="center">I’m a curious full-stack developer 👨‍💻 who loves building things that actually work ⚡ from designing smooth user interfaces 🎨 to writing secure APIs 🔐 and deploying them in the cloud ☁. I’m exploring not just the MERN stack 🖥 but also the bigger picture: Docker 🐳, Kubernetes ⚙, and AWS 🚀 because shipping code isn’t the end goal, scaling it is 📈. I enjoy experimenting 🧪, breaking things (safely) 🛠, and learning how systems behave under the hood 🔍. For me, development is a mix of creativity 🎭 and problem-solving 🧠 like cricket 🏏, every project is an innings where I strategize 📝, play smart 🎯, and aim for a winning outcome 🏆. This space is where I share my learning journey 📚, my builds 🏗, and my constant push towards writing cleaner 🧹, smarter 💡, and production-ready code ✅</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep8pal&label=Profile%20views&color=0e75b6&style=flat" alt="deep8pal" /> </p>
