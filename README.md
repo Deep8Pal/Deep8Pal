@@ -36,8 +36,9 @@ For me, development is about creativity 🎭, problem-solving 🧠, and constant
 
 <h3 align="center">🌱 I’m currently learning</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ADEF&width=500&lines=Learning+Cloud+%26+DevOps;Docker+·+AWS+·+CI%2FCD+·+Kubernetes" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&size=22&duration=2000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=500&lines=☁️+Cloud+%26+DevOps;🐳+Docker+·+AWS+·+CI%2FCD+·+Kubernetes" alt="Typing Animation" />
 </p>
+
 
 
 <h3 align="center">🚀 Languages and Tools:</h3>
