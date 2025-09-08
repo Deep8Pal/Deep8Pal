@@ -14,7 +14,7 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="full">
         <a href="https://aws.amazon.com" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
         </a>
