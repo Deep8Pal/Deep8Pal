@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker, AWS, CI/CD, Kubernetes**
 
-<h3 align="center">🚀 Languages and Tools:</h3>
+<h3 align="left">🚀 Languages and Tools:</h3>
 
 <p align="center">
   <table>
@@ -77,9 +77,113 @@
         <br>Git
       </td>
     </tr>
-    <!-- Isi tarah aur rows add karte jao (MongoDB, React, Node, etc.) -->
+    <tr>
+      <td align="center" width="96">
+        <a href="https://graphql.org" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+        </a>
+        <br>GraphQL
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.w3.org/html/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+        </a>
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="https://kubernetes.io" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
+        </a>
+        <br>Kubernetes
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.linux.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        </a>
+        <br>Linux
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.mongodb.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+        </a>
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <a href="https://nodejs.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
+        </a>
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.postgresql.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
+        </a>
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <a href="https://postman.com" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+        </a>
+        <br>Postman
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.python.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="https://reactjs.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="https://redis.io" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="Redis" />
+        </a>
+        <br>Redis
+      </td>
+      <td align="center" width="96">
+        <a href="https://redux.js.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+        </a>
+        <br>Redux
+      </td>
+      <td align="center" width="96">
+        <a href="https://tailwindcss.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
+        </a>
+        <br>Tailwind
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.typescriptlang.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        </a>
+        <br>TypeScript
+      </td>
+    </tr>
   </table>
 </p>
+
 
 
 
