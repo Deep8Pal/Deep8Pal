@@ -204,6 +204,32 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 </p>
 
+<h3 align="left">🚀 Languages and Tools:</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<h3 align="left">🚀 Languages and Tools:</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+</p>
+
+<h3 align="left">🚀 Languages and Tools:</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,django,docker,express,figma,firebase,framer,git,graphql,html,js,kubernetes,linux,mongodb,mysql,nodejs,postgres,postman,python,react,redis,redux,tailwind,ts" />
+</p>
+
 
 
 
