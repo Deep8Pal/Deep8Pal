@@ -3,9 +3,9 @@
 </p> </h1>
 
 <h3 align="center">
-I’m a full-stack developer who loves turning ideas into scalable products ☁️.  
-From designing smooth UIs 🎨 to writing secure APIs 🔐 and deploying with Docker 🐳, Kubernetes ⚙, and AWS 🚀—I enjoy the complete journey.  
-For me, development is about creativity 🎭, problem-solving 🧠, and constantly learning 📚 to build cleaner, smarter, production-ready code ✅.
+I’m a full-stack developer who loves turning ideas into scalable products.  
+From designing smooth UIs to writing secure APIs and deploying with Docker, Kubernetes and AWS 🚀 I enjoy the complete journey.  
+For me, development is about creativity, problem-solving and constantly learning to build cleaner, smarter, production-ready code ✅.
 </h3>
 
 <p align="center">
@@ -36,9 +36,8 @@ For me, development is about creativity 🎭, problem-solving 🧠, and constant
 
 <h3 align="center">🌱 I’m currently learning</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&size=22&duration=2000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=500&lines=☁️+Cloud+%26+DevOps;🐳+Docker+·+AWS+·+CI%2FCD+·+Kubernetes" alt="Typing Animation" />
+  <b>☁️ Cloud & DevOps — Docker · AWS · CI/CD · Kubernetes</b>
 </p>
-
 
 
 <h3 align="center">🚀 Languages and Tools:</h3>
